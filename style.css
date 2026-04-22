@@ -23,6 +23,7 @@ header span {
 
 .main-section {
     background-color: #fafaff;
+    padding: 60px 0;
     /* Стили для первой секции */
 }
 
@@ -46,7 +47,7 @@ header span {
 }
 
 .main-image {
-    width: 715px;
+    max-width: 715px;
     height: 508px;
     margin-bottom: 356px;
     /* Стили для изображения в первой секции */
@@ -69,6 +70,7 @@ select {
     font-size: 16px;
     color: #303030;
     padding: 0 12px;
+    background-repeat: no-repeat;
     /* Стили для выпадающего списка */
 }
 
@@ -77,12 +79,12 @@ select {
     font-weight: 700;
     font-size: 24px;
     color: #303030;
-    padding-bottom: 24px;
+    margin-bottom: 24px;
     /* Стили для заголовков во второй секции */
 }
 
 .frameworks-list {
-    padding: 0 0 0 20px;
+    padding: 0 20px;
     list-style-image: url(./assets/img/solar_map-arrow-up-bold.svg?);
     font-family: "Inter", sans-serif;
     font-weight: 400;
@@ -100,7 +102,7 @@ select {
     font-weight: 400;
     font-size: 16px;
     color: #303030;
-    padding-left: 20px;
+    padding: 0 20px;
     
     /* Стили для нумерованного списка во второй секции */
 }
@@ -124,7 +126,7 @@ input[type="checkbox"] {
     border: 1px solid rgba(48, 48, 48, 0.3);
     border-radius: 5px;
     padding: 0 12px;
-    
+    font-size: 16px;
     &::placeholder {
         font-family: "Inter", sans-serif;
         font-weight: 400;
@@ -160,6 +162,7 @@ input[type="checkbox"] {
 table {
     border-collapse: collapse;
     border: 1px solid #95a1bb;
+    font-size: 14px;
 
     /* Стили для таблицы */
 }
@@ -169,7 +172,7 @@ tr, th {
     font-weight: 700;
     font-size: 14px;
     color: #303030;
-    padding: 12px 16px;
+    padding: 12px 15px;
 }
 
 tr, td {
@@ -177,7 +180,7 @@ tr, td {
     font-weight: 400;
     font-size: 14px;
     color: #303030;
-    padding: 12px 16px;
+    padding: 12px 15px;
     /* Стили для ячеек таблицы */
 }
 
