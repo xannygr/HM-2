@@ -5,6 +5,14 @@
     /* Свойства для сброса начальных стилей элементов */
 }
 
+.container {
+    max-width: 1140px;
+}
+
+.section-main-pre {
+    align-items: center;
+}
+
 body {
     color: #303030;
     /* Стили для тела */
@@ -33,7 +41,9 @@ header span {
     max-width: 1440px;
     /* Стили для первой секции */
 }
-
+.wrapper {
+    align-items: center;
+}
 .main-title {
     font-family: "Inter", sans-serif;
     font-weight: 700;
