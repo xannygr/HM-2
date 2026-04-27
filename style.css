@@ -151,7 +151,7 @@ select {
 
 .checkbox-skills {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     gap: 20px;
 }
 
