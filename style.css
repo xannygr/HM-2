@@ -38,7 +38,7 @@ header span {
     padding: 260px 150px;
     justify-content: center;
     align-items: center;
-    gap:60px;
+    gap: 60px;
     max-width: 1440px;
     /* Стили для первой секции */
 }
@@ -75,6 +75,7 @@ header span {
 .wrapper.about-section  {
     display: flex;  
     flex-direction: column;
+    align-items: center;
     gap: 60px;
     background-color: #fff;
     padding: 100px 150px;
