@@ -32,7 +32,7 @@ header span {
     /* Стили для текста в хедере IT-INCUBATOR */
 }
 
-.main-section.wrapper {
+.main-section-wrapper {
     display: flex;
     background-color: #fafaff;
     padding: 260px 150px;
@@ -44,7 +44,7 @@ header span {
 .wrapper {
     align-items: center;
 }
-.main-title.text-wrapper {
+.main-title-wrapper {
     font-family: "Inter", sans-serif;
     font-weight: 700;
     font-size: 48px;
@@ -55,7 +55,7 @@ header span {
     /* Стили для заголовка в первой секции */
 
 
-.main-text {
+.main-text-wrapper {
     font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 18px;
@@ -70,7 +70,7 @@ header span {
 }
 
 
-.about-section.wrapper {
+.about-section-wrapper {
     display: flex;  
     flex-direction: column;
     gap: 60px;
