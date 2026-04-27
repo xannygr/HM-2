@@ -32,7 +32,7 @@ header span {
     /* Стили для текста в хедере IT-INCUBATOR */
 }
 
-.main-section-wrapper {
+.main-section-pre {
     display: flex;
     background-color: #fafaff;
     padding: 260px 150px;
@@ -41,6 +41,7 @@ header span {
     max-width: 1440px;
     /* Стили для первой секции */
 }
+
 .wrapper {
     align-items: center;
 }
