@@ -71,13 +71,17 @@ header span {
     /* Стили для изображения в первой секции */
 }
 
-.about-section-wrapper {
+.about-section  {
     display: flex;  
     flex-direction: column;
     gap: 60px;
     background-color: #fff;
     padding: 100px 150px;
     /* Стили для второй секции */
+}
+
+.about-section.wrapper {
+    gap: 60px;
 }
 
 select {
