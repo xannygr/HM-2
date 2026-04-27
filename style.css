@@ -38,6 +38,7 @@ header span {
     padding: 260px 150px;
     justify-content: center;
     align-items: center;
+    gap:60px;
     max-width: 1440px;
     /* Стили для первой секции */
 }
@@ -101,6 +102,10 @@ select {
     display: flex;
     justify-content: space-between;
     /* Стили для информации о любимых фреймворках и книгах */
+}
+
+.label {
+    gap: 20px;
 }
 
 .section-title {
