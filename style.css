@@ -71,7 +71,7 @@ header span {
     /* Стили для изображения в первой секции */
 }
 
-.about-section  {
+.wrapper  {
     display: flex;  
     flex-direction: column;
     gap: 60px;
@@ -80,7 +80,7 @@ header span {
     /* Стили для второй секции */
 }
 
-.about-section.wrapper {
+.wrapper {
     gap: 60px;
 }
 
