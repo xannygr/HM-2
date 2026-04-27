@@ -42,7 +42,7 @@ header span {
     /* Стили для первой секции */
 }
 
-.wrapper {
+.main-section.wrapper {
     align-items: center;
 }
 
