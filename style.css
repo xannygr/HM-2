@@ -17,7 +17,10 @@ body {
     color: #303030;
     /* Стили для тела */
 }
-
+.wrapper {
+    align-items: center;
+    gap: 60px;
+}
 header {
     background-color: #2965f1;
     padding: 24px 150px;
