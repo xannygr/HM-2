@@ -35,7 +35,7 @@ header span {
     /* Стили для текста в хедере IT-INCUBATOR */
 }
 
-.wrapper.main-section {
+.wrapper-main-section {
     display: flex;
     background-color: #fafaff;
     padding: 260px 150px;
@@ -75,7 +75,7 @@ header span {
     /* Стили для изображения в первой секции */
 }
 
-.wrapper.about-section  {
+.wrapper-about-section  {
     display: flex;  
     flex-direction: column;
     align-items: center;
