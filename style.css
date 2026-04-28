@@ -86,6 +86,12 @@ header span {
     /* Стили для второй секции */
 }
 
+.wrapper {
+    align-items: center;
+    gap: 60px;
+    /* Стили для второй секции */
+}
+
 .section-about-wrapper {
     gap: 60px;
 }
