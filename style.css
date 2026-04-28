@@ -35,7 +35,8 @@ header span {
     color: #fff;
     /* Стили для текста в хедере IT-INCUBATOR */
 }
-.wrapper {
+
+.about-section.container.wrapper {
     align-items: center;
     gap:60px;
 }
