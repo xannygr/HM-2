@@ -36,6 +36,11 @@ header span {
     /* Стили для текста в хедере IT-INCUBATOR */
 }
 
+.main-section.container.wrapper {
+    align-items: center;
+    gap:60px;
+}
+
 .about-section.container.wrapper {
     align-items: center;
     gap:60px;
