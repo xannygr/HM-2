@@ -70,6 +70,10 @@ header span {
     /* Стили для текста в первой секции */
 }
 
+.section-main-wrapper {
+    align-items: center;
+}
+
 .main-image {
     max-width: 715px;
     height: 508px;
