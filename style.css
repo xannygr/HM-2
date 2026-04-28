@@ -17,6 +17,7 @@ body {
     color: #303030;
     /* Стили для тела */
 }
+
 .wrapper {
     align-items: center;
     gap: 60px;
@@ -46,7 +47,7 @@ header span {
     /* Стили для первой секции */
 }
 
-.main-section.wrapper {
+.main-section-wrapper {
     align-items: center;
 }
 
@@ -85,7 +86,7 @@ header span {
     /* Стили для второй секции */
 }
 
-.wrapper.about-section {
+.section-about-wrapper {
     gap: 60px;
 }
 
