@@ -148,18 +148,17 @@ select {
     /* Стили для третей секции */
 }
 
-.input-skills {
-    margin-bottom: 40px;
-}
-.info-wrapper {
-    display: flex;
-}
-
-.checkbox-skills {
+.skills {
     display: flex;
     flex-direction: column-reverse;
     gap: 20px;
 }
+
+
+.info-wrapper {
+    display: flex;
+}
+
 
 .label {
     font-family: "Inter", sans-serif;
@@ -171,10 +170,7 @@ select {
 }
 
 
-.skills {
-    display: flex;
-    gap: 20px;
-}
+
 
 input[type="checkbox"] {
     accent-color: #2965f1;
