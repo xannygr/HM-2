@@ -35,7 +35,9 @@ header span {
     color: #fff;
     /* Стили для текста в хедере IT-INCUBATOR */
 }
-
+.main-section {
+    align-content: center;
+}
 .main-section.container.wrapper {
     align-items: center;
     gap:60px;
@@ -178,6 +180,9 @@ select {
 .input-skills {
     margin-bottom: 40px;
 }
+.info-wrapper {
+    display: flex;
+}
 
 .checkbox-skills {
     display: flex;
@@ -192,6 +197,14 @@ select {
     color: #303030;
     gap: 20px;
     /* Стили для подписей чекбоксов */
+}
+.skill-block {
+    flex-direction: column-reverse;
+    gap: 20px;
+}
+
+.skill {
+    gap: 20px;
 }
 
 input[type="checkbox"] {
