@@ -10,7 +10,9 @@
 }
 
 .section-main {
-    align-items: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 body {
