@@ -143,7 +143,7 @@ select {
 
 .skills-block {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     gap: 20px;
     /* Стили для третей секции */
 }
@@ -172,6 +172,7 @@ select {
 
 
 .skills {
+    display: flex;
     gap: 20px;
 }
 
