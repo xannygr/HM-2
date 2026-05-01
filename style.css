@@ -200,6 +200,7 @@ select {
     /* Стили для подписей чекбоксов */
 }
 .skill-block {
+    display: flex;
     flex-direction: column-reverse;
     gap: 20px;
 }
