@@ -141,7 +141,7 @@ select {
     /* Стили для нумерованного списка во второй секции */
 }
 
-.skills-section {
+.skills-block {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -169,13 +169,9 @@ select {
     gap: 20px;
     /* Стили для подписей чекбоксов */
 }
-.skill-block {
-    display: flex;
-    flex-direction: column-reverse;
-    gap: 20px;
-}
 
-.skill {
+
+.skills {
     gap: 20px;
 }
 
